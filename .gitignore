@@ -1,25 +1,26 @@
+*.hi
+*.o
+*/experiments
+*/notes
 .DS_Store
 .bash_history
 .cache
 .cargo
 .config
-.mal-history
-.mal_history
 .crystal
+.ivy2
 .lein
 .m2
-.ivy2
-.sbt
-.npm
+.mal-history
+.mal_history
 .node-gyp
-package-lock.json
-*/experiments
+.npm
+.sbt
 node_modules
-*/notes
+package-lock.json
 
 logs
 old
 tmp/
 
-.hi
-.o
+step0_repl
